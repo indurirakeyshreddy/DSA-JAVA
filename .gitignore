@@ -1,0 +1,28 @@
+# Java compiled files
+*.class
+
+# Build output
+/build/
+/target/
+/out/
+/bin/
+/dist/
+/.gradle/
+
+# IDE files
+/.idea/
+*.iml
+/.vscode/
+/.project
+/.classpath
+/.settings/
+/nbproject/private/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
