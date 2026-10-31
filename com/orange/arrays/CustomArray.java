@@ -1,10 +1,10 @@
 package com.orange.arrays;
 
-public class Array {
+public class CustomArray {
 	private int[] items;
 	private int count;
 
-	public Array(int size) {
+	public CustomArray(int size) {
 		items = new int[size];
 	}
 

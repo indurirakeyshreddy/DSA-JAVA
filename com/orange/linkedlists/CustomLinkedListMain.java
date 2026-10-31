@@ -2,11 +2,11 @@ package com.orange.linkedlists;
 
 import java.util.Arrays;
 
-public class MainLinkedList {
+public class CustomLinkedListMain {
 
     public static void main(String[] args) {
 
-        var list = new LinkedList();
+        var list = new CustomLinkedList();
 
         // 1. addLast()
         list.addLast(10);
