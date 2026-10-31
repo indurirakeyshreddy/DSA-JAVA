@@ -1,4 +1,4 @@
-package com.orange.linkedlist;
+package com.orange.linkedlists;
 
 import java.util.NoSuchElementException;
 
