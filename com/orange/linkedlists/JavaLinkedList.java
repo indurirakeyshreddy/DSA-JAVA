@@ -5,11 +5,9 @@ import java.util.LinkedList;
 public class JavaLinkedList {
 
 	public static void main(String[] args) {
-
-		// Create a LinkedList
+		
 		LinkedList<Integer> list = new LinkedList<>();
-
-		// Add elements
+		
 		list.add(10);
 		list.add(20);
 		list.add(30);
